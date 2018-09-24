@@ -1,0 +1,35 @@
+@font-face {
+    font-family: DIN NEXT™ ARABIC LIGHT;
+    src: url("./light.otf") format("opentype");
+}
+
+@font-face {
+    font-family: DIN NEXT™ ARABIC BOLD;
+    font-weight: bold;
+    src: url("./bold.otf") format("opentype");
+}
+
+body {
+  font-family: DIN NEXT™ ARABIC LIGHT;
+  font-size: 20px;
+}
+
+.text-center{
+  font-family: DIN NEXT™ ARABIC LIGHT;
+  font-size: 20px;
+}
+
+ul li{
+  font-family: DIN NEXT™ ARABIC LIGHT;
+    font-size: 14px;
+}
+
+h1 {
+  font-family: DIN NEXT™ ARABIC BOLD;
+    font-size: 24px;  
+}
+
+h3 {
+  font-family: DIN NEXT™ ARABIC LIGHT;
+    font-size: 14px;  
+}
